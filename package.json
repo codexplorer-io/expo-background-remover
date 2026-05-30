@@ -1,5 +1,5 @@
 {
-  "name": "expo-background-remover",
+  "name": "@codexporer.io/expo-background-remover",
   "version": "1.0.0",
   "description": "Universal background removal for Expo",
   "main": "index.ts",
